@@ -1,7 +1,7 @@
 {
-  "name": "react-scripts",
+  "name": "tes-react-scripts",
   "version": "1.0.7",
-  "description": "Configuration and scripts for Create React App.",
+  "description": "CRA/react-scripts fork with universal render &  redux-sagas",
   "repository": "facebookincubator/create-react-app",
   "license": "BSD-3-Clause",
   "engines": {
